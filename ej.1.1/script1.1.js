@@ -1,6 +1,6 @@
 let i = 0;
 let seguir = true;
-const MAX = 10;
+const MAX = 100;
 
 for (let i = 0; seguir == true; i++){
 
